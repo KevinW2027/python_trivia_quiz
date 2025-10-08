@@ -32,7 +32,7 @@ anime_trivia = [
     }, 
     {
         'question': 'What is the main weapon used by Ichigo Kurosaki in Bleach?',
-        'answer': 'B',
+        'answer': 'A',
         'options': ['A) Katana', 'B) Zanpakutō', 'C) Kunai', 'D) Shuriken']
     },
     {
