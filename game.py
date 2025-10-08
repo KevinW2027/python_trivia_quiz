@@ -65,7 +65,7 @@ def ask_question(question, options, answer):
     while True:
         choice = input("Enter your answer (A, B, C, or D): ")
         if choice.upper().strip() in ['A', 'B', 'C', 'D']:
-            if choice == answer: 
+            if choice.upper().strip() == answer: 
                 print('Correct!')
                 return True
             else: 
